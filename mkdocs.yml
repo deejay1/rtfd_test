@@ -1,0 +1,10 @@
+site_name: RTFD tests
+
+repo_url: https://github.com/deejay1/rtfd_test.git
+
+pages:
+  - index.md
+  - Subpages:
+      - tst/foo.md
+
+theme: cosmo
